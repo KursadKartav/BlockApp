@@ -1,0 +1,8 @@
+C:\Users\PC\Desktop\BlockApp\BlockApp.Entity\bin\Debug\netcoreapp2.0\BlogApp.Entity.deps.json
+C:\Users\PC\Desktop\BlockApp\BlockApp.Entity\bin\Debug\netcoreapp2.0\BlogApp.Entity.dll
+C:\Users\PC\Desktop\BlockApp\BlockApp.Entity\bin\Debug\netcoreapp2.0\BlogApp.Entity.pdb
+C:\Users\PC\Desktop\BlockApp\BlockApp.Entity\obj\Debug\netcoreapp2.0\BlogApp.Entity.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\BlockApp\BlockApp.Entity\obj\Debug\netcoreapp2.0\BlogApp.Entity.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\BlockApp\BlockApp.Entity\obj\Debug\netcoreapp2.0\BlogApp.Entity.AssemblyInfo.cs
+C:\Users\PC\Desktop\BlockApp\BlockApp.Entity\obj\Debug\netcoreapp2.0\BlogApp.Entity.dll
+C:\Users\PC\Desktop\BlockApp\BlockApp.Entity\obj\Debug\netcoreapp2.0\BlogApp.Entity.pdb

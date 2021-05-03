@@ -1,0 +1,11 @@
+C:\Users\PC\Desktop\BlockApp\BlockQpp.Data\bin\Debug\netcoreapp3.0\BlogApp.Data.deps.json
+C:\Users\PC\Desktop\BlockApp\BlockQpp.Data\bin\Debug\netcoreapp3.0\BlogApp.Data.dll
+C:\Users\PC\Desktop\BlockApp\BlockQpp.Data\obj\Debug\netcoreapp3.0\BlogApp.Data.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\BlockApp\BlockQpp.Data\obj\Debug\netcoreapp3.0\BlogApp.Data.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\BlockApp\BlockQpp.Data\obj\Debug\netcoreapp3.0\BlogApp.Data.AssemblyInfo.cs
+C:\Users\PC\Desktop\BlockApp\BlockQpp.Data\bin\Debug\netcoreapp3.0\BlogApp.Data.pdb
+C:\Users\PC\Desktop\BlockApp\BlockQpp.Data\obj\Debug\netcoreapp3.0\BlogApp.Data.dll
+C:\Users\PC\Desktop\BlockApp\BlockQpp.Data\obj\Debug\netcoreapp3.0\BlogApp.Data.pdb
+C:\Users\PC\Desktop\BlockApp\BlockQpp.Data\bin\Debug\netcoreapp3.0\BlogApp.Entity.dll
+C:\Users\PC\Desktop\BlockApp\BlockQpp.Data\bin\Debug\netcoreapp3.0\BlogApp.Entity.pdb
+C:\Users\PC\Desktop\BlockApp\BlockQpp.Data\obj\Debug\netcoreapp3.0\BlogApp.Data.csproj.CopyComplete
